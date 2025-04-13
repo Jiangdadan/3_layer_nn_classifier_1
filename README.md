@@ -16,6 +16,6 @@
 ├── test.py
 ├── gridsearch.py
 
-# train.py 用于训练模型
-# test.py 用于测试模型
-# gridsearch.py 用于搜索超参数组合
+train.py 用于训练模型
+test.py 用于测试模型
+gridsearch.py 用于搜索超参数组合
