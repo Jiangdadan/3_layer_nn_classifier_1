@@ -1,0 +1,2 @@
+[console_scripts]
+cifar10-train = train:main

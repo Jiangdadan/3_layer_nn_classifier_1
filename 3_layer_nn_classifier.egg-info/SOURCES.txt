@@ -1,0 +1,15 @@
+setup.py
+3_layer_nn_classifier.egg-info/PKG-INFO
+3_layer_nn_classifier.egg-info/SOURCES.txt
+3_layer_nn_classifier.egg-info/dependency_links.txt
+3_layer_nn_classifier.egg-info/entry_points.txt
+3_layer_nn_classifier.egg-info/requires.txt
+3_layer_nn_classifier.egg-info/top_level.txt
+src/Dataloader.py
+src/GridSearcher.py
+src/Layers.py
+src/Loss.py
+src/MLPModel.py
+src/Optimizer.py
+src/Trainer.py
+src/__init__.py
